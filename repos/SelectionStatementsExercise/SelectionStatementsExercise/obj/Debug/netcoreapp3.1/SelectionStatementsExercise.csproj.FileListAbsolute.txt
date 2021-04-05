@@ -1,0 +1,4 @@
+C:\Users\joyce\repos\SelectionStatementsExercise\SelectionStatementsExercise\obj\Debug\netcoreapp3.1\SelectionStatementsExercise.csprojAssemblyReference.cache
+C:\Users\joyce\repos\SelectionStatementsExercise\SelectionStatementsExercise\obj\Debug\netcoreapp3.1\SelectionStatementsExercise.AssemblyInfoInputs.cache
+C:\Users\joyce\repos\SelectionStatementsExercise\SelectionStatementsExercise\obj\Debug\netcoreapp3.1\SelectionStatementsExercise.AssemblyInfo.cs
+C:\Users\joyce\repos\SelectionStatementsExercise\SelectionStatementsExercise\obj\Debug\netcoreapp3.1\SelectionStatementsExercise.csproj.CoreCompileInputs.cache
